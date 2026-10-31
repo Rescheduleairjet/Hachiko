@@ -1,10 +1,8 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "airasia24jam.id",
+  "name": "superairjet-co",
   "compatibility_date": "2026-10-31",
-  "workers_dev": true,
   "assets": {
-    "directory": "./public",
-    "binding": "ASSETS"
+    "directory": "./"
   }
 }
